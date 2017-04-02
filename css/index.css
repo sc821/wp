@@ -601,7 +601,7 @@ html{font-size: 100px}
     position: absolute;
 }
 .s42{
-    top: 4rem;
+    top: 4.2rem;
     left:1.5rem;
     width:4rem;
     height:1.6rem;
@@ -617,7 +617,7 @@ html{font-size: 100px}
     position: absolute;
 }
 .s44{
-    top: 5.8rem;
+    top: 6rem;
     left:1.5rem;
     width:4rem;
     height:1.6rem;
@@ -634,7 +634,7 @@ html{font-size: 100px}
 
 }
 .s46{
-    top: 7.6rem;
+    top: 7.8rem;
     left:1.5rem;
     width:4rem;
     height:1.6rem;
@@ -694,14 +694,14 @@ html{font-size: 100px}
      z-index:1;
      position: absolute;
  }.bg53{
-      top:3.8rem;
+      top:2.8rem;
      left:0;
      width:7.58rem;
      height: 4.26rem;
      z-index:0;
      position: absolute;
  }.bg55{
-     top:2rem;
+     top:1rem;
      left:3.3rem;
      width:2.65rem;
      height: 1.11rem;
@@ -710,28 +710,28 @@ html{font-size: 100px}
  }
 
 .bg56{
-    top:4rem;
+    top:3rem;
     left:2.7rem;
     width:0.82rem;
     height: 0.72rem;
     z-index:4;
     position: absolute;
 }.bg57{
-     top:5rem;
+     top:4rem;
      left:2.7rem;
      width:0.82rem;
      height: 0.72rem;
      z-index:4;
      position: absolute;
  }.bg58{
-      top:6rem;
+      top:5rem;
       left:2.7rem;
       width:0.82rem;
       height: 0.72rem;
       z-index:4;
       position: absolute;
   }.bg59{
-      top:7rem;
+      top:6rem;
       left:2.7rem;
       width:0.82rem;
       height: 0.72rem;
@@ -739,7 +739,7 @@ html{font-size: 100px}
       position: absolute;
   }
 .s51{
-    top: 4.16rem;
+    top: 3.16rem;
     left:3.5rem;
     width:4rem;
     height: 1.6rem;
@@ -747,7 +747,7 @@ html{font-size: 100px}
     position: absolute;
 }
 .s52{
-    top: 5.16rem;
+    top: 4.16rem;
     left:3.5rem;
     width:4rem;
     height:1.6rem;
@@ -755,7 +755,7 @@ html{font-size: 100px}
     position: absolute;
 }
 .s53{
-    top: 6.16rem;
+    top: 5.16rem;
     left:3.5rem;
     width:5rem;
     height: 1.6rem;
@@ -763,7 +763,7 @@ html{font-size: 100px}
     position: absolute;
 }
 .s54{
-    top: 7.16rem;
+    top: 6.16rem;
     left:3.5rem;
     width:4rem;
     height:1.6rem;
