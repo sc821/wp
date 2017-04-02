@@ -297,7 +297,7 @@ html{font-size: 100px}
     animation:fadeInLeft 1.2s 1s both;
 
 }#page2 .bg27{
-    -webkit-animation:fadeInLeft1s 1.4s both ;
+    -webkit-animation:fadeInLeft1s 1.4s 1s both ;
     animation:fadeInLeft 1.4s 1s both ;
 
 }#page2 .bg28{
@@ -681,8 +681,8 @@ html{font-size: 100px}
 }.bg52{
      bottom:0;
      left:0;
-     width:6.8rem;
-     height: 3.32rem;
+     width:5.5rem;
+     height: 2.5rem;
      z-index:1;
      position: absolute;
  }
@@ -987,8 +987,8 @@ html{font-size: 100px}
 .s73{
     top: 5.8rem;
     left: 1.5rem;
-    width: 5rem;
-    height: 5rem;
+    width: 4rem;
+    height: 2rem;
     z-index: 0;
     position: absolute;
 }
