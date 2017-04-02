@@ -1,0 +1,1044 @@
+body,html,.swiper-container{
+    padding:0;
+    margin:0;
+    width: 100%;
+    height:100%;
+}
+html{font-size: 100px}
+
+.swiper-slide{
+    position: relative;
+    width:100%;
+    height: 100%;
+    background :url("../img/bg.png");
+}
+.bg1,.bg2{
+    position: absolute;
+}
+.bg2{
+    top:0;
+    right:-0.5rem;
+    width:7.48rem;
+    height:4.2rem;
+}
+.bg1{
+    bottom:0;
+    right:0;
+    width:7.52rem;
+    height: 3.74rem;
+}
+.bg3{
+    top:0;
+    left: 0;
+    width: 2.82rem;;
+    height: 3.16rem;
+    position: absolute;
+    z-index: 3;
+}
+#page1 .bg2{
+    -webkit-animation: fadeInDown  1s  both ;
+    animation:fadeInDown 1s  both ;
+
+
+}#page1 .bg1{
+     -webkit-animation: fadeInUp 1s  both;
+     animation:fadeInUp 1s both;
+
+ }
+#page1 .bg3{
+    -webkit-animation:fadeInLeft 2s ;
+    animation:fadeInLeft 2s ;
+
+}
+#page1 .bg4{
+    animation:fadeInRight 2s ;
+    -webkit-animation:fadeInRight 2s ;
+}
+#page1 .bg7{
+    animation:fadeInRight 1s 1s both;
+    -webkit-animation:fadeInRight 1s 1s both;
+}
+#page1 .bg6{
+    animation:fadeInDown 1s 1s both;
+    -webkit-animation:fadeInDown 1s 1s both;
+}
+#page1 .bg5,#page1 .bg9{
+    animation:fadeInLeft 1s 1s both;
+    -webkit-animation:fadeInLeft 1s 1s both;
+}#page1 .bg8{
+    animation:fadeInUp 1s 1s both;
+    -webkit-animation:fadeInUp 1s 1s both;
+}
+#page1 .bg10,#page1 .bg12,#page1 .bg11 {
+    animation: bounceIn 2s 1s both;
+    -webkit-animation: bounceIn 2s 1s both;
+}
+.bg4{
+    bottom:0;
+    right:-0.5rem;
+    width:3.48rem;
+    height: 4.92rem;
+    position: absolute;
+}
+.bg5{
+    position: absolute;
+    top: 3.6rem;
+    left:0.74rem;
+    width: 2.66rem;
+    height: 3.58rem;
+
+}
+.bg6{
+    position: absolute;
+    top: 2.5rem;
+    left:2.5rem;
+    width: 2.12rem;
+    height: 1.5rem;
+
+}.bg7{
+    position: absolute;
+    top: 4.3rem;
+    left:1.3rem;
+    width: 3.03rem;
+    height: 1.33rem;
+    opacity: 0;
+}
+.bg8{
+    position: absolute;
+    top: 7.1rem;
+    left:2.4rem;
+    width: 0.88rem;
+    height: 0.5rem;
+
+}
+.bg9{
+    position: absolute;
+    top: 4.3rem;
+    left:0.6rem;
+    width: 0.74rem;
+    height: 0.68rem;
+
+}
+.bg10{
+    position: absolute;
+    top: 6.3rem;
+    left:1.2rem;
+    width: 2.44rem;
+    height: 0.36rem;
+    z-index: 5;
+}
+.bg11{
+    position: absolute;
+    top: 5.8rem;
+    left:1.3rem;
+    width: 2.3rem;
+    height: 0.5rem;
+    z-index: 5;
+}.bg12{
+    position: absolute;
+    top: 5.9rem;
+    left:1.5rem;
+    width: 2.4rem;
+    height: 0.6rem;
+    z-index: 50;
+}
+ .music{
+     background: url("../music/music.svg");
+     background-size: 0.6rem;
+     position: absolute;
+     top: 0.2rem;
+     right:0.2rem;
+     width: 0.6rem;
+     height: 0.6rem;
+     z-index: 107;
+
+ }
+
+.bg22{
+    top:0;
+    right:0;
+    width:7.52rem;
+    height: 3.66rem;
+    z-index:3;
+    position: absolute;
+}.bg23{
+    bottom:0;
+    right:0;
+    width:7.52rem;
+    height: 2.62rem;
+     z-index:3;
+     position: absolute;
+}
+.bg24{
+    top:2.9rem;
+    left:1.2rem;
+    width:4.28rem;
+    height: 5.78rem;
+     z-index:3;
+     position: absolute;
+}
+.bg25{
+    top:4.2rem;
+    left:0.1rem;
+    width:1.64rem;
+    height: 3.1rem;
+     z-index:3;
+     position: absolute;
+}
+.bg25{
+    top:4.2rem;
+    left:0.1rem;
+    width:1.64rem;
+    height: 3.1rem;
+     z-index:3;
+     position: absolute;
+}
+.bg26{
+    top:3.3rem;
+    left:1.6rem;
+    width:3.24rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.bg27{
+    top:4.3rem;
+    left:1.5rem;
+    width:3.34rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.bg28{
+    top:5.3rem;
+    left:1.5rem;
+    width:3.34rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.bg29{
+    top:6.3rem;
+    left:1.6rem;
+    width:3.24rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.bg30{
+    top:7.3rem;
+    left:1.5rem;
+    width:3.34rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.s21{
+    top:3.6rem;
+    left:2.3rem;
+    width:3.14rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.s22{
+    top:4.6rem;
+    left:2.3rem;
+    width:3.14rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.s23{
+    top:5.6rem;
+    left:2.3rem;
+    width:3.14rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.s24{
+    top:6.6rem;
+    left:2.3rem;
+    width:3.14rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+.s25{
+    top:7.6rem;
+    left:2.21rem;
+    width:3.14rem;
+    height: 0.92rem;
+     z-index:3;
+     position: absolute;
+}
+#page2 .bg22{
+    -webkit-animation: fadeInDown  1s  both ;
+    animation:fadeInDown 1s  both ;
+
+
+}#page2 .bg23{
+     -webkit-animation: fadeInUp 1s  both;
+     animation:fadeInUp 1s both;
+
+ }
+#page2 .bg24{
+    -webkit-animation:fadeInRight 2s ;
+    animation:fadeInRight 2s ;
+
+}
+#page2 .bg25{
+    -webkit-animation:fadeInLeft 2s ;
+    animation:fadeInLeft 2s ;
+
+}#page2 .bg26{
+    -webkit-animation:fadeInLeft 1.2s 1s both ;
+    animation:fadeInLeft 1.2s 1s both;
+
+}#page2 .bg27{
+    -webkit-animation:fadeInLeft1s 1.4s both ;
+    animation:fadeInLeft 1.4s 1s both ;
+
+}#page2 .bg28{
+    -webkit-animation:fadeInLeft 1.6s 1s both ;
+    animation:fadeInLeft 1.6s 1s both ;
+
+}#page2 .bg29{
+    -webkit-animation:fadeInLeft 1.8s 1s both ;
+    animation:fadeInLeft 1.8s 1s both ;
+
+}#page2 .bg30{
+    -webkit-animation:fadeInLeft 2s 1s both ;
+    animation:fadeInLeft 2s 1s both;
+
+}#page2 .s21{
+    -webkit-animation:fadeInRight 1.2s 1s both ;
+    animation:fadeInRight 1.2s 1s both;
+
+}#page2 .s22{
+    -webkit-animation:fadeInRight 1.4s both ;
+    animation:fadeInRight 1.4s 1s both ;
+
+}#page2 .s23{
+    -webkit-animation:fadeInRight 1.6s 1s both ;
+    animation:fadeInRight 1.6s 1s both ;
+
+}#page2 .s24{
+    -webkit-animation:fadeInRight 1.8s 1s both ;
+    animation:fadeInRight 1.8s 1s both ;
+
+}#page2 .s25{
+    -webkit-animation:fadeInRight 2s 1s both ;
+    animation:fadeInRight 2s 1s both;
+
+}
+.bg31{
+    top:0;
+    right:0;
+    width:7.27rem;
+    height: 2.9rem;
+    z-index:1;
+    position: absolute;
+}.bg32{
+     bottom:0;
+     right:0;
+     width:7.9rem;
+     height: 2.42rem;
+     z-index:1;
+     position: absolute;
+ }
+ .bg33{
+    top:2.5rem;
+    left:0;
+    width:2rem;
+    height: 7rem;
+    z-index:3;
+    position: absolute;
+}.bg34{
+     top:4.2rem;
+     left:-0.5rem;
+     width:2.4rem;
+     height: 2.7rem;
+     z-index:3;
+     position: absolute;
+ }
+.bg35{
+    top:0.5rem;
+    right:-0.5rem;
+    width:2.28rem;
+    height: 7.28rem;
+    z-index:3;
+    position: absolute;
+}.bg36{
+     top:4.4rem;
+     right:0;
+     width:2.08rem;
+     height: 6.18rem;
+     z-index:2;
+     position: absolute;
+ }
+.bg38{
+    top:2rem;
+    left:2rem;
+    width:2.66rem;
+    height: 1rem;
+    z-index:3;
+    position: absolute;
+
+}.bg37{
+     top:2rem;
+     left:1.2rem;
+     width:4.34rem;
+     height: 7.32rem;
+     z-index:2;
+     position: absolute;
+
+ }
+.bg39{
+     top:3.4rem;
+     left:1.7rem;
+     width:0.72rem;
+     height: 0.6rem;
+     z-index:4;
+     position: absolute;
+ }.bg40{
+     top:5.2rem;
+     left:1.7rem;
+     width:0.72rem;
+     height: 0.6rem;
+     z-index:4;
+     position: absolute;
+ }.bg41{
+     top:7rem;
+     left:1.7rem;
+     width:0.72rem;
+     height: 0.6rem;
+     z-index:4;
+     position: absolute;
+ }
+  .s31{
+      top: 3.5rem;
+      left:2.5rem;
+      width:3rem;
+      height: 1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+.s32{
+      top: 4rem;
+      left:2.5rem;
+      width:3rem;
+      height:1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+ .s33{
+      top: 5.3rem;
+      left:2.5rem;
+      width:3rem;
+      height: 1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+.s34{
+      top: 5.8rem;
+      left:2.5rem;
+      width:3rem;
+      height:1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+ .s35{
+      top: 7.1rem;
+      left:2.5rem;
+      width:3rem;
+      height: 1.6rem;
+      z-index:4;
+      position: absolute;
+
+  }
+.s36{
+      top: 7.6rem;
+      left:2.5rem;
+      width:3rem;
+      height:1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+#page3 .bg31{
+    -webkit-animation: fadeInDown  1s  both ;
+    animation:fadeInDown 1s  both ;
+
+
+}#page3 .bg32{
+     -webkit-animation: fadeInUp 1s  both;
+     animation:fadeInUp 1s both;
+
+ }
+#page3 .bg37{
+    -webkit-animation:zoomInUp 2s  1s both ;
+    animation:zoomInUp 2s  1s both ;
+
+
+}#page3 .bg38{
+     -webkit-animation:zoomInDown 2s 1s both;
+     animation:zoomInDown 2s 1s both;
+
+}#page3 .bg33{
+    -webkit-animation:fadeInLeft 1.3s 1s both ;
+    animation:fadeInLeft 1.3s 1s both ;
+
+
+}#page3 .bg35{
+     -webkit-animation:fadeInRight 1.3s 1s both;
+     animation:fadeInRight 1.3s 1s both;
+
+}
+#page3 .bg34{
+    -webkit-animation:fadeInLeft 2s 1.5s both ;
+    animation:fadeInLeft 2s 1.5s both ;
+
+
+}#page3 .bg36{
+     -webkit-animation:fadeInRight 2s 1.5s both;
+     animation:fadeInRight 2s 1.5s both;
+
+}
+#page3 .bg39{
+     -webkit-animation:zoomInUp 1.2s 0.5s both;
+     animation:zoomInUp 1.2s 0.5s both;
+
+}#page3 .bg40{
+     -webkit-animation:zoomInUp 1.8s 0.5s both;
+     animation:zoomInUp 1.8s 0.5s both;
+
+}#page3 .bg41 {
+      -webkit-animation: zoomInUp 2.4s 0.5s both;
+      animation: zoomInUp 2.4s 0.5s both;
+  }
+#page3 .s31,#page3 .s32 {
+      -webkit-animation: fadeInRight 1.2s 1s both;
+      animation: fadeInRight 1.2s 1s both;
+  }
+#page3 .s33,#page3 .s34 {
+      -webkit-animation: fadeInRight 1.8s 1s both;
+      animation: fadeInRight 1.8s 1.2s both;
+  }
+#page3 .s35,#page3 .s36 {
+      -webkit-animation: fadeInRight 2.4s 1s both;
+      animation: fadeInRight 2.4s 1.4s both;
+  }
+#page4 .bg43{
+    -webkit-animation: fadeInDown  1s  both ;
+    animation:fadeInDown 1s  both ;
+
+
+}#page4 .bg44{
+     -webkit-animation: fadeInUp 1s  both;
+     animation:fadeInUp 1s both;
+
+ }
+
+.bg43{
+    top:0;
+    right:0;
+    width:7.52rem;
+    height: 2.96rem;
+    z-index:1;
+    position: absolute;
+}.bg444{
+    bottom:0;
+     left:0;
+    width:2.7rem;
+    height: 2.3rem;
+    z-index:1;
+    position: absolute;
+}
+.bg44{
+     bottom:0;
+     right:0;
+     width:6.98rem;
+     height: 2.52rem;
+     z-index:1;
+     position: absolute;
+ }.bg45{
+     top:2rem;
+       left: 0.8rem;
+     width:2.64rem;
+     height: 1rem;
+     z-index:1;
+     position: absolute;
+ }
+.bg46{
+    top:3.4rem;
+    left:0.7rem;
+    width:0.72rem;
+    height: 0.6rem;
+    z-index:4;
+    position: absolute;
+}.bg47{
+     top:5.2rem;
+     left:0.7rem;
+     width:0.72rem;
+     height: 0.6rem;
+     z-index:4;
+     position: absolute;
+ }.bg48{
+      top:7rem;
+      left:0.7rem;
+      width:0.72rem;
+      height: 0.6rem;
+      z-index:4;
+      position: absolute;
+  }
+.s41{
+    top: 3.5rem;
+    left:1.5rem;
+    width:4rem;
+    height: 1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s42{
+    top: 4rem;
+    left:1.5rem;
+    width:4rem;
+    height:1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s43{
+    top: 5.3rem;
+    left:1.5rem;
+    width:5rem;
+    height: 1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s44{
+    top: 5.8rem;
+    left:1.5rem;
+    width:4rem;
+    height:1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s45{
+    top: 7.1rem;
+    left:1.5rem;
+    width:4rem;
+    height: 1.6rem;
+    z-index:4;
+    position: absolute;
+
+}
+.s46{
+    top: 7.6rem;
+    left:1.5rem;
+    width:4rem;
+    height:1.6rem;
+    z-index:4;
+    position: absolute;
+}
+#page4 .bg46{
+    -webkit-animation:zoomInUp 1.2s 0.5s both;
+    animation:zoomInUp 1.2s 0.5s both;
+
+}#page4 .bg444{
+    -webkit-animation:rotateInDownLeft 1.5s 1s both;
+    animation:rotateInDownLeft 1.5s 1s both;
+
+}
+#page4 .bg47{
+     -webkit-animation:zoomInUp 1.8s 0.5s both;
+     animation:zoomInUp 1.8s 0.5s both;
+
+ }#page4 .bg48 {
+      -webkit-animation: zoomInUp 2.4s 0.5s both;
+      animation: zoomInUp 2.4s 0.5s both;
+  }
+#page4 .s41,#page4 .s42 {
+    -webkit-animation: fadeInRight 1.2s 1s both;
+    animation: fadeInRight 1.2s 1s both;
+}
+#page4 .s43,#page4 .s44 {
+    -webkit-animation: fadeInRight 1.8s 1s both;
+    animation: fadeInRight 1.8s 1.2s both;
+}
+#page4 .s45,#page4 .s46 {
+    -webkit-animation: fadeInRight 2.4s 1s both;
+    animation: fadeInRight 2.4s 1.4s both;
+}
+
+.bg51{
+    top:0;
+    left:0;
+    width:3.22rem;
+    height: 7.02rem;
+    z-index:1;
+    position: absolute;
+}.bg52{
+     bottom:0;
+     left:0;
+     width:6.8rem;
+     height: 3.32rem;
+     z-index:1;
+     position: absolute;
+ }
+.bg54{
+     bottom:0;
+     left:0;
+     width:2.08rem;
+     height: 2.28rem;
+     z-index:1;
+     position: absolute;
+ }.bg53{
+      top:3.8rem;
+     left:0;
+     width:7.58rem;
+     height: 4.26rem;
+     z-index:0;
+     position: absolute;
+ }.bg55{
+     top:2rem;
+     left:3.3rem;
+     width:2.65rem;
+     height: 1.11rem;
+     z-index:1;
+     position: absolute;
+ }
+
+.bg56{
+    top:4rem;
+    left:2.7rem;
+    width:0.82rem;
+    height: 0.72rem;
+    z-index:4;
+    position: absolute;
+}.bg57{
+     top:5rem;
+     left:2.7rem;
+     width:0.82rem;
+     height: 0.72rem;
+     z-index:4;
+     position: absolute;
+ }.bg58{
+      top:6rem;
+      left:2.7rem;
+      width:0.82rem;
+      height: 0.72rem;
+      z-index:4;
+      position: absolute;
+  }.bg59{
+      top:7rem;
+      left:2.7rem;
+      width:0.82rem;
+      height: 0.72rem;
+      z-index:4;
+      position: absolute;
+  }
+.s51{
+    top: 4.16rem;
+    left:3.5rem;
+    width:4rem;
+    height: 1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s52{
+    top: 5.16rem;
+    left:3.5rem;
+    width:4rem;
+    height:1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s53{
+    top: 6.16rem;
+    left:3.5rem;
+    width:5rem;
+    height: 1.6rem;
+    z-index:4;
+    position: absolute;
+}
+.s54{
+    top: 7.16rem;
+    left:3.5rem;
+    width:4rem;
+    height:1.6rem;
+    z-index:4;
+    position: absolute;
+}
+#page5 .bg51{
+    -webkit-animation:fadeInLeft 2s 0s both;
+    animation:fadeInLeft 2s 0s both;
+
+}#page5 .bg52 {
+     -webkit-animation: fadeInUp 2s 0s both;
+     animation: fadeInUp 2s 0s both;
+ }#page5 .bg54 {
+     -webkit-animation: fadeInLeft 1s 2s both;
+     animation: fadeInLeft 1s 2s both;
+ }#page5 .bg55{
+     -webkit-animation: fadeInRight 0.5s 1s both;
+     animation: fadeInRight 0.5s 1s both;
+ }#page5 .bg53{
+     -webkit-animation: zoomIn 1s 0.5s both;
+     animation: zoomIn 1s 0.5s both;
+ }
+
+#page4 .bg45{
+    -webkit-animation:fadeInLeft 1s 1.5s both ;
+    animation:fadeInLeft 1s 1.5s both ;}
+#page5 .bg56{
+    -webkit-animation:fadeInLeft 1.2s 0.4s both;
+    animation:fadeInLeft 1.2s 0.5s both;
+
+}#page5 .bg57{
+     -webkit-animation:fadeInLeft 1.6s 0.6s both;
+     animation:fadeInLeft 1.6s 0.5s both;
+
+ }#page5 .bg58 {
+      -webkit-animation: fadeInLeft 2s 0.8s both;
+      animation: fadeInLeft 2s 0.5s both;}
+#page5 .bg59 {
+      -webkit-animation: fadeInLeft 2.4s 1s both;
+      animation: fadeInLeft 2.4s 0.5s both;}
+
+#page5 .s51{
+    -webkit-animation: fadeInRight 1.2s 1s both;
+    animation: fadeInRight 1.2s 1s both;
+}
+#page5 .s52{
+    -webkit-animation: fadeInRight 1.4s 1.2s both;
+    animation: fadeInRight 1.4s 1.2s both;
+}
+#page5 .s53 {
+    -webkit-animation: fadeInRight 1.6s 1.4s both;
+    animation: fadeInRight 1.6s 1.4s both;
+}
+#page5 .s54 {
+    -webkit-animation: fadeInRight 1.8s 1.6s both;
+    animation: fadeInRight 1.8s 1.6s both;
+}
+
+#page6 .bg31{
+    -webkit-animation: fadeInDown  1s  both ;
+    animation:fadeInDown 1s  both ;
+
+
+}#page6 .bg32{
+     -webkit-animation: fadeInUp 1s  both;
+     animation:fadeInUp 1s both;
+
+ }
+
+#page6 .bg33{
+      -webkit-animation:fadeInLeft 1.3s 1s both ;
+      animation:fadeInLeft 1.3s 1s both ;
+
+
+  }#page6 .bg35{
+       -webkit-animation:fadeInRight 1.3s 1s both;
+       animation:fadeInRight 1.3s 1s both;
+
+   }
+#page6 .bg34{
+    -webkit-animation:fadeInLeft 2s 1.5s both ;
+    animation:fadeInLeft 2s 1.5s both ;
+
+
+}#page6 .bg36{
+     -webkit-animation:fadeInRight 2s 1.5s both;
+     animation:fadeInRight 2s 1.5s both;
+
+ }
+
+.bg61{
+    top: 1.7rem;
+    left:2.8rem;
+    width:1.52rem;
+    height: 0.97rem;
+    z-index:4;
+    position: absolute;
+}.bg62{
+     top: 2.8rem;
+     left:2rem;
+     width:2.64rem;
+     height: 1.12rem;
+     z-index:4;
+     position: absolute;
+ }.bg63{
+      top: 4.5rem;
+      left:1rem;
+      width:4.24rem;
+      height: 4.24rem;
+      z-index:0;
+      position: absolute;
+  }
+
+#page6 .bg61{
+    -webkit-animation:fadeInDown  1.5s 2s  both ;
+    animation:fadeInDown  1.5s  2s both ;
+
+
+}#page6 .bg62 {
+     -webkit-animation: fadeInUp 1s 1s both;
+     animation: fadeInUp  1s 1s both;
+ }#page6 .bg63 {
+     -webkit-animation: zoomIn 1s 1s both;
+     animation: zoomIn 1s 1s both;
+ }
+.bg64{
+    top:5rem;
+    left:1.8rem;
+    width:0.88rem;
+    height: 0.88rem;
+    z-index:4;
+    position: absolute;
+}.bg65{
+     top:6.2rem;
+     left:1.8rem;
+     width:0.88rem;
+     height: 0.88rem;
+     z-index:4;
+     position: absolute;
+ }.bg66{
+      top:7.4rem;
+      left:1.8rem;
+      width:0.88rem;
+      height: 0.88rem;
+      z-index:4;
+      position: absolute;
+  }
+.s61{
+    top:5.2rem;
+    left:2.8rem;
+    width:1.6rem;
+    height: 0.3rem;
+    z-index:6;
+    position: absolute;
+}.s62{
+     top:6.4rem;
+     left:2.8rem;
+     width:1.6rem;
+     height: 0.3rem;
+     z-index:6;
+     position: absolute;
+ }.s63{
+       top: 7.7rem;
+      left:2.6rem;
+      width:1.6rem;
+      height: 0.3rem;
+      z-index:6;
+      position: absolute;
+  }
+#page6 .bg64{
+    -webkit-animation:fadeInLeft 1.2s 1s both ;
+    animation:fadeInLeft 1.2s 1s both;
+
+}#page6 .bg65{
+     -webkit-animation:fadeInLeft 1.8s 1s both ;
+     animation:fadeInLeft 1.8s 1s both ;
+
+ }#page6 .bg66 {
+       -webkit-animation: fadeInLeft 2.4s 1s both;
+       animation: fadeInLeft 2.4s 1s both;
+   }
+
+#page6 .s61{
+    -webkit-animation:fadeInRight 1.2s 1.3s both ;
+    animation:fadeInRight 1.2s 1s both;
+
+}#page6 .s62{
+     -webkit-animation:fadeInRight 1.8s 1.3s both ;
+     animation:fadeInRight 1.8s 1.3s both ;
+
+ }#page6 .s63{
+      -webkit-animation:fadeInRight 2.4s 1.5s both ;
+      animation:fadeInRight 2.4s 1.5s both ;
+
+  }
+.bg71{
+    top: 1.2rem;
+    left: 0.4rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    z-index: 6;
+    position: absolute;
+}
+
+.bg72{
+    top: 2.1rem;
+    left: 1.4rem;
+    width: 3.7rem;
+    height: 0.7rem;
+    z-index: 6;
+    position: absolute;
+}.bg73{
+     top: 6.2rem;
+     left: 0.6rem;
+     width: 5rem;
+     height: 5rem;
+     z-index:0;
+     position: absolute;
+}
+.s73{
+    top: 5.8rem;
+    left: 1.5rem;
+    width: 5rem;
+    height: 5rem;
+    z-index: 0;
+    position: absolute;
+}
+
+#page7 .bg72{
+    -webkit-animation: sm 2s linear 1.5s infinite;
+    animation: sm 2s linear 1.5s infinite;
+}
+#page7 .bg71{
+    -webkit-animation: zoomIn 1s 1s both;
+    animation: zoomIn 1s 1s both;
+}
+
+.musicCur{
+    animation:music 1s infinite linear
+
+}
+
+
+@-webkit-keyframes sm {
+    0%,100%{
+        opacity: 1;
+        -webkit-transform: translate(0,0);
+        transform: translate(0,0);
+    }
+    50%{
+        opacity: 1;
+        -webkit-transform: translate(0,2.84rem);
+        transform: translate(0,2.84rem);
+    }
+}
+@keyframes sm {
+    0%,100%{
+        opacity: 1;
+        -webkit-transform: translate(0,0);
+        transform: translate(0,0);
+    }
+    50%{
+        opacity: 1;
+        -webkit-transform: translate(0,3rem);
+        transform: translate(0,3rem);
+    }
+}
+@keyframes music{
+    0%{
+        transform:rotate(0deg);
+    }
+
+    100%{
+        transform:rotate(360deg);
+    }
+
+}
