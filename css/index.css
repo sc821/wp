@@ -171,7 +171,7 @@ html{font-size: 100px}
 }
 .bg24{
     top:2.9rem;
-    left:1.2rem;
+    left:1.5rem;
     width:4.28rem;
     height: 5.78rem;
      z-index:3;
@@ -179,7 +179,7 @@ html{font-size: 100px}
 }
 .bg25{
     top:4.2rem;
-    left:0.1rem;
+    left:0.4rem;
     width:1.64rem;
     height: 3.1rem;
      z-index:3;
@@ -187,7 +187,7 @@ html{font-size: 100px}
 }
 .bg25{
     top:4.2rem;
-    left:0.1rem;
+    left:0.4rem;
     width:1.64rem;
     height: 3.1rem;
      z-index:3;
@@ -195,7 +195,7 @@ html{font-size: 100px}
 }
 .bg26{
     top:3.3rem;
-    left:1.6rem;
+    left:1.9rem;
     width:3.24rem;
     height: 0.92rem;
      z-index:3;
@@ -203,7 +203,7 @@ html{font-size: 100px}
 }
 .bg27{
     top:4.3rem;
-    left:1.5rem;
+    left:1.8rem;
     width:3.34rem;
     height: 0.92rem;
      z-index:3;
@@ -211,7 +211,7 @@ html{font-size: 100px}
 }
 .bg28{
     top:5.3rem;
-    left:1.5rem;
+    left:1.8rem;
     width:3.34rem;
     height: 0.92rem;
      z-index:3;
@@ -219,7 +219,7 @@ html{font-size: 100px}
 }
 .bg29{
     top:6.3rem;
-    left:1.6rem;
+    left:1.9rem;
     width:3.24rem;
     height: 0.92rem;
      z-index:3;
@@ -227,7 +227,7 @@ html{font-size: 100px}
 }
 .bg30{
     top:7.3rem;
-    left:1.5rem;
+    left:1.8rem;
     width:3.34rem;
     height: 0.92rem;
      z-index:3;
@@ -235,7 +235,7 @@ html{font-size: 100px}
 }
 .s21{
     top:3.6rem;
-    left:2.3rem;
+    left:2.6rem;
     width:3.14rem;
     height: 0.92rem;
      z-index:3;
@@ -243,7 +243,7 @@ html{font-size: 100px}
 }
 .s22{
     top:4.6rem;
-    left:2.3rem;
+    left:2.6rem;
     width:3.14rem;
     height: 0.92rem;
      z-index:3;
@@ -251,7 +251,7 @@ html{font-size: 100px}
 }
 .s23{
     top:5.6rem;
-    left:2.3rem;
+    left:2.6rem;
     width:3.14rem;
     height: 0.92rem;
      z-index:3;
@@ -259,7 +259,7 @@ html{font-size: 100px}
 }
 .s24{
     top:6.6rem;
-    left:2.3rem;
+    left:2.6rem;
     width:3.14rem;
     height: 0.92rem;
      z-index:3;
@@ -267,7 +267,7 @@ html{font-size: 100px}
 }
 .s25{
     top:7.6rem;
-    left:2.21rem;
+    left:2.51rem;
     width:3.14rem;
     height: 0.92rem;
      z-index:3;
@@ -964,7 +964,7 @@ html{font-size: 100px}
   }
 .bg71{
     top: 1.2rem;
-    left: 0.4rem;
+    left: 0.8rem;
     width: 4.5rem;
     height: 4.5rem;
     z-index: 6;
@@ -973,14 +973,14 @@ html{font-size: 100px}
 
 .bg72{
     top: 2.1rem;
-    left: 1.4rem;
+    left: 1.8rem;
     width: 3.7rem;
     height: 0.7rem;
     z-index: 6;
     position: absolute;
 }.bg73{
      top: 6.2rem;
-     left: 0.6rem;
+     left: 1.4rem;
      width: 5rem;
      height: 5rem;
      z-index:0;
