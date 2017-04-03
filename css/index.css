@@ -678,14 +678,14 @@ html{font-size: 100px}
     left:0;
     width:3.22rem;
     height: 7.02rem;
-    z-index:1;
+    z-index:2;
     position: absolute;
 }.bg52{
      bottom:0;
      left:0;
      width:7.5rem;
      height: 3.2rem;
-     z-index:1;
+     z-index:0;
      position: absolute;
  }
 .bg54{
@@ -700,7 +700,7 @@ html{font-size: 100px}
      left:0;
      width:7.58rem;
      height: 4.26rem;
-     z-index:0;
+     z-index:1;
      position: absolute;
  }.bg55{
      top:1rem;
