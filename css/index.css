@@ -468,6 +468,22 @@ html{font-size: 100px}
       z-index:4;
       position: absolute;
   }
+.s37{
+      top: 6.1rem;
+      left:2.5rem;
+      width:3rem;
+      height:1.6rem;
+      z-index:4;
+      position: absolute;
+  }
+.s38{
+      top: 7.9rem;
+      left:2.5rem;
+      width:3rem;
+      height:1.6rem;
+      z-index:4;
+      position: absolute;
+  }
 #page3 .bg31{
     -webkit-animation: fadeInDown  1s  both ;
     animation:fadeInDown 1s  both ;
@@ -523,11 +539,11 @@ html{font-size: 100px}
       -webkit-animation: fadeInRight 1.2s 1s both;
       animation: fadeInRight 1.2s 1s both;
   }
-#page3 .s33,#page3 .s34 {
+#page3 .s33,#page3 .s34,#page3 .s37{
       -webkit-animation: fadeInRight 1.8s 1s both;
       animation: fadeInRight 1.8s 1.2s both;
   }
-#page3 .s35,#page3 .s36 {
+#page3 .s35,#page3 .s36,#page3 .s38 {
       -webkit-animation: fadeInRight 2.4s 1s both;
       animation: fadeInRight 2.4s 1.4s both;
   }
